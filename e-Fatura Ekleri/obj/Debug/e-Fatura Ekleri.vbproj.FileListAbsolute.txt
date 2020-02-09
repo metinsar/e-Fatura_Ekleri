@@ -1,0 +1,18 @@
+c:\users\metins.bauhaus\documents\visual studio 2013\Projects\e-Fatura Ekleri\e-Fatura Ekleri\bin\Debug\e-Fatura Ekleri.exe
+c:\users\metins.bauhaus\documents\visual studio 2013\Projects\e-Fatura Ekleri\e-Fatura Ekleri\bin\Debug\e-Fatura Ekleri.pdb
+c:\users\metins.bauhaus\documents\visual studio 2013\Projects\e-Fatura Ekleri\e-Fatura Ekleri\bin\Debug\e-Fatura Ekleri.xml
+c:\users\metins.bauhaus\documents\visual studio 2013\Projects\e-Fatura Ekleri\e-Fatura Ekleri\obj\Debug\e_Fatura_Ekleri.Resources.resources
+c:\users\metins.bauhaus\documents\visual studio 2013\Projects\e-Fatura Ekleri\e-Fatura Ekleri\obj\Debug\e-Fatura Ekleri.vbproj.GenerateResource.Cache
+c:\users\metins.bauhaus\documents\visual studio 2013\Projects\e-Fatura Ekleri\e-Fatura Ekleri\obj\Debug\e-Fatura Ekleri.exe
+c:\users\metins.bauhaus\documents\visual studio 2013\Projects\e-Fatura Ekleri\e-Fatura Ekleri\obj\Debug\e-Fatura Ekleri.xml
+c:\users\metins.bauhaus\documents\visual studio 2013\Projects\e-Fatura Ekleri\e-Fatura Ekleri\obj\Debug\e-Fatura Ekleri.pdb
+c:\users\metins.bauhaus\documents\visual studio 2013\Projects\e-Fatura Ekleri\e-Fatura Ekleri\obj\Debug\e_Fatura_Ekleri.eFatura_Main.resources
+C:\Users\Metins.BAUHAUS\Documents\Visual Studio 2013\Projects\e-Fatura Ekleri\e-Fatura Ekleri\bin\Debug\e-Fatura Ekleri.exe.manifest
+C:\Users\Metins.BAUHAUS\Documents\Visual Studio 2013\Projects\e-Fatura Ekleri\e-Fatura Ekleri\bin\Debug\e-Fatura Ekleri.application
+C:\Users\Metins.BAUHAUS\Documents\Visual Studio 2013\Projects\e-Fatura Ekleri\e-Fatura Ekleri\obj\Debug\e-Fatura Ekleri.exe.manifest
+C:\Users\Metins.BAUHAUS\Documents\Visual Studio 2013\Projects\e-Fatura Ekleri\e-Fatura Ekleri\obj\Debug\e-Fatura Ekleri.application
+C:\Users\Metins.BAUHAUS\Documents\Visual Studio 2013\Projects\e-Fatura Ekleri\e-Fatura Ekleri\obj\Debug\e_Fatura_Ekleri.SplashScreen1.resources
+C:\Users\metins.BAUHAUS\Documents\Visual Studio 2017\Projects\e-Fatura Ekleri\e-Fatura Ekleri\obj\Debug\e_Fatura_Ekleri.eFatura_Main.resources
+C:\Users\metins.BAUHAUS\Documents\Visual Studio 2017\Projects\e-Fatura Ekleri\e-Fatura Ekleri\obj\Debug\e_Fatura_Ekleri.Resources.resources
+C:\Users\metins.BAUHAUS\Documents\Visual Studio 2017\Projects\e-Fatura Ekleri\e-Fatura Ekleri\obj\Debug\e_Fatura_Ekleri.SplashScreen1.resources
+C:\Users\metins.BAUHAUS\Documents\Visual Studio 2017\Projects\e-Fatura Ekleri\e-Fatura Ekleri\obj\Debug\e-Fatura Ekleri.vbproj.GenerateResource.Cache

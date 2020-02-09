@@ -1,0 +1,6 @@
+C:\Users\metins.BAUHAUS\Documents\Visual Studio 2017\Projects\e-Fatura Ekleri\e-Fatura Ekleri\obj\Release\e_Fatura_Ekleri.eFatura_Main.resources
+C:\Users\metins.BAUHAUS\Documents\Visual Studio 2017\Projects\e-Fatura Ekleri\e-Fatura Ekleri\obj\Release\e_Fatura_Ekleri.Resources.resources
+C:\Users\metins.BAUHAUS\Documents\Visual Studio 2017\Projects\e-Fatura Ekleri\e-Fatura Ekleri\obj\Release\e_Fatura_Ekleri.SplashScreen1.resources
+C:\Users\metins.BAUHAUS\Documents\Visual Studio 2017\Projects\e-Fatura Ekleri\e-Fatura Ekleri\obj\Release\e-Fatura Ekleri.vbproj.GenerateResource.Cache
+C:\Users\metins.BAUHAUS\Documents\Visual Studio 2017\Projects\e-Fatura Ekleri\e-Fatura Ekleri\obj\Release\e-Fatura Ekleri.vbprojResolveAssemblyReference.cache
+C:\Users\metins.BAUHAUS\Documents\Visual Studio 2017\Projects\e-Fatura Ekleri\e-Fatura Ekleri\obj\Release\e-Fatura Ekleri.vbprojAssemblyReference.cache
